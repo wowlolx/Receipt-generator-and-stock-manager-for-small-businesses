@@ -1,0 +1,26 @@
+{
+    "loan": {
+        "lol": {
+            "phone": "lol",
+            "address": "pol",
+            "customer_id": "68",
+            "Total Loan": 0,
+            "purchase": {}
+        },
+        "ronaldo": {
+            "phone": "sasa",
+            "address": "asassa",
+            "customer_id": "70",
+            "Total Loan": 2264,
+            "purchase": {
+                "70==MDIuMTIuMjAyMi0wMi4xOS4wMQ==": {
+                    "subtotal": 2464,
+                    "discount": 200,
+                    "total": "Rs.2264.00",
+                    "payment": "Loan",
+                    "timestamp": "02.12.2022-02.19.06"
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,20 @@
+{customers{
+	"name":{
+		"phone": 12
+		"address":12
+		"customer_id":12
+		"total sales":12222
+		purchase:{
+			"bill_no":{
+				"subtotal":12
+				"discount":12
+				"total":12
+				"payment":Cash/Loan
+				"timestamp":$Time
+
+			"bill_no2":{}
+			}
+		}
+	}
+
+}

@@ -1,0 +1,90 @@
+{
+    "Seeds": {
+        "dsdss": {},
+        "fdsdffds": {},
+        "dfdfffd": {},
+        "I love you": {},
+        "aaaaa": {
+            "lol": {
+                "stock": 480,
+                "price": 2500
+            }
+        },
+        "I hate you": {
+            "aaaa": {
+                "stock": 0,
+                "price": 224
+            },
+            "lol": {
+                "stock": 0,
+                "price": 0
+            },
+            "lmao": {
+                "stock": 0,
+                "price": 0
+            }
+        },
+        "dssdds": {},
+        "dssd": {},
+        "dsdsds": {},
+        "aaaaaaaa": {
+            "Cena": {
+                "stock": 0,
+                "price": 0
+            }
+        },
+        "dssadds": {},
+        "lolwow": {},
+        "John": {
+            "Cena": {
+                "stock": 69,
+                "price": 0
+            }
+        }
+    },
+    "Fertilizers": {
+        "dsdss": {},
+        "fdsdffds": {},
+        "dfdfffd": {},
+        "I love you": {},
+        "aaaaa": {},
+        "I hate you": {},
+        "dssdds": {},
+        "dssd": {},
+        "dsdsds": {},
+        "aaaaaaaa": {},
+        "dssadds": {},
+        "lolwow": {},
+        "John": {}
+    },
+    "Sprays and Pesticides": {
+        "dsdss": {},
+        "fdsdffds": {},
+        "dfdfffd": {},
+        "I love you": {},
+        "aaaaa": {},
+        "I hate you": {},
+        "dssdds": {},
+        "dssd": {},
+        "dsdsds": {},
+        "aaaaaaaa": {},
+        "dssadds": {},
+        "lolwow": {},
+        "John": {}
+    },
+    "Miscellaneous": {
+        "dsdss": {},
+        "fdsdffds": {},
+        "dfdfffd": {},
+        "I love you": {},
+        "aaaaa": {},
+        "I hate you": {},
+        "dssdds": {},
+        "dssd": {},
+        "dsdsds": {},
+        "aaaaaaaa": {},
+        "dssadds": {},
+        "lolwow": {},
+        "John": {}
+    }
+}

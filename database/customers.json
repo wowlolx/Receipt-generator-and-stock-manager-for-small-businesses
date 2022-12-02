@@ -1,0 +1,119 @@
+{
+    "customers": {
+        "lol": {
+            "phone": "lol",
+            "address": "pol",
+            "customer_id": "68",
+            "total sales": 53426,
+            "purchase": {
+                "68==MzAuMTEuMjAyMi0wMy4wMi4wNA==": {
+                    "subtotal": 224,
+                    "discount": 0,
+                    "total": "Rs.224.00",
+                    "payment": "Loan",
+                    "timestamp": "30.11.2022-03.02.10"
+                },
+                "68==MzAuMTEuMjAyMi0wMy40NS4yNw==": {
+                    "subtotal": 2724,
+                    "discount": 0,
+                    "total": "Rs.2724.00",
+                    "payment": "Loan",
+                    "timestamp": "30.11.2022-03.45.45"
+                },
+                "68==MzAuMTEuMjAyMi0wNS4wOS41NA==": {
+                    "subtotal": 448,
+                    "discount": 0,
+                    "total": "Rs.448.00",
+                    "payment": "Cash",
+                    "timestamp": "30.11.2022-05.09.57"
+                },
+                "68==MzAuMTEuMjAyMi0wNS4xMC40NQ==": {
+                    "subtotal": 47488,
+                    "discount": 0,
+                    "total": "Rs.47488.00",
+                    "payment": "Cash",
+                    "timestamp": "30.11.2022-05.10.47"
+                },
+                "68==MDEuMTIuMjAyMi0yMS4xMS4wNg==": {
+                    "subtotal": 2240,
+                    "discount": 250,
+                    "total": "Rs.1990.00",
+                    "payment": "Loan",
+                    "timestamp": "01.12.2022-21.11.09"
+                },
+                "68==MDIuMTIuMjAyMi0wMy4zNy41MA==": {
+                    "subtotal": 672,
+                    "discount": 120,
+                    "total": "Rs.552.00",
+                    "payment": "Cash",
+                    "timestamp": "02.12.2022-03.37.55"
+                }
+            }
+        },
+        "ronaldo": {
+            "phone": "sasa",
+            "address": "asassa",
+            "customer_id": "70",
+            "total sales": 48988,
+            "purchase": {
+                "70==MzAuMTEuMjAyMi0wMy4wNi4wOA==": {
+                    "subtotal": 224,
+                    "discount": 0,
+                    "total": "Rs.224.00",
+                    "payment": "Loan",
+                    "timestamp": "30.11.2022-03.06.10"
+                },
+                "70==MDEuMTIuMjAyMi0wMS4wMi4wNA==": {
+                    "subtotal": 50000,
+                    "discount": 3500,
+                    "total": "Rs.46500.00",
+                    "payment": "Loan",
+                    "timestamp": "01.12.2022-01.02.07"
+                },
+                "70==MDIuMTIuMjAyMi0wMi4xOS4wMQ==": {
+                    "subtotal": 2464,
+                    "discount": 200,
+                    "total": "Rs.2264.00",
+                    "payment": "Loan",
+                    "timestamp": "02.12.2022-02.19.06"
+                }
+            }
+        },
+        "hello": {
+            "phone": "world",
+            "address": "pubg",
+            "customer_id": "72",
+            "total sales": 0,
+            "purchase": {}
+        },
+        "mitthu": {
+            "phone": "papu",
+            "address": "noob",
+            "customer_id": "74",
+            "total sales": 448,
+            "purchase": {
+                "74==MjkuMTEuMjAyMi0yMy40Mi4xNA==": {
+                    "subtotal": 224,
+                    "discount": 0,
+                    "total": "Rs.224.00",
+                    "payment": "Cash",
+                    "timestamp": "29.11.2022-23.42.18"
+                },
+                "74==MDEuMTIuMjAyMi0yMi4wMS40OA==": {
+                    "subtotal": 224,
+                    "discount": 0,
+                    "total": "Rs.224.00",
+                    "payment": "Cash",
+                    "timestamp": "01.12.2022-22.01.55"
+                }
+            }
+        },
+        "rana muhammad imran raza kan": {
+            "phone": "sasa",
+            "address": "asassa",
+            "customer_id": "76",
+            "total sales": 0,
+            "purchase": {}
+        }
+    }
+}

@@ -1,0 +1,26 @@
+{category1{
+	company_name1{
+		product1{
+			stock:12
+			price:122
+		}
+		product2{}
+	}	
+	company_name2{}
+}
+
+
+
+category2{
+	company_name1{
+		product1{
+			stock:12
+			price:230
+		}
+		product2{}
+	}	
+	company_name2{}
+}
+
+
+}

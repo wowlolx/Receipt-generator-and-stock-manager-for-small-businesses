@@ -1,0 +1,6 @@
+{
+    "Seeds":{},
+    "Fertilizers":{},
+    "Sprays and Pesticides":{},
+    "Miscellaneous":{}
+}
