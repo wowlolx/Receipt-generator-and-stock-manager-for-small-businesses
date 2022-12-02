@@ -1,0 +1,4 @@
+1- Main function is print, on print, it will update stock and all databases, so if you do something wrong do clear before printing
+2- Never exit the program in between message dialog boxes,, bcz you are in between funnctions and it will just break databases
+3- You can clear unnecessary databases based on timestamp, via clicking date modified in windows and then delete upper rows upto desired date
+4-Do weekly database backup on cloud
